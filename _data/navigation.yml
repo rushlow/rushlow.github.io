@@ -4,8 +4,8 @@ main:
   - title: "CV"
     url: /files/Rushlow_CV_2023-12_pub.pdf
     
- - title: "Research"
-   url: /research/   
+#  - title: "Research"
+#    url: /research/   
 
 #  - title: "Teaching"
 #    url: /teaching/    
