@@ -5,7 +5,7 @@ permalink: /research/2023-IRERE
 excerpt: ''
 date: 2023-06-14
 venue: 'International Review of Environmental and Resource Economics'
-paperurl: 'http://rushlow.github.io/files/rushlow-and-ablbers-2023.pdf'
+paperurl: 'http://rushlow.github.io/files/rushlow-and-albers-2023.pdf'
 citation: 'Jennifer R. Rushlow and Heidi J. Albers (2023), &quot;Follow the Meat: The Economics of Small-Scale Wild Meat Systems in Low- and Middle-Income Countries&quot;, International Review of Environmental and Resource Economics:Vol. 17: No. 2-3, pp 363-410.'
 ---
 
