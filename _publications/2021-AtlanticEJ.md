@@ -3,7 +3,7 @@ title: "How the Removal of a Market Barrier Enhanced Market Efficiency: The Case
 collection: publications
 permalink: /publication/2021-AtlanticEJ
 excerpt: ''
-date: 2010-10-01
+date: 2021-04-29
 venue: 'Atlantic Economic Journal'
 paperurl: 'https://doi.org/10.1007/s11293-021-09707-4'
 citation: 'Rushlow, J., Bauer, P. How the Removal of a Market Barrier Enhanced Market Efficiency: The Case of WTI and Brent Crude Oil Prices. <i> Atl Econ J </i> 49, 87–96 (2021).'
