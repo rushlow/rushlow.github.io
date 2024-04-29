@@ -2,7 +2,7 @@
 title: "Follow the Meat: The Economics of Small-Scale Wild Meat Systems in Low-and Middle-Income Countries"
 collection: publications
 permalink: /research/2023-IRERE
-excerpt:''
+excerpt: ''
 date: 2023-06-14
 venue: 'International Review of Environmental and Resource Economics'
 paperurl: 'http://rushlow.github.io/files/rushlow_and_ablbers_2023.pdf'
